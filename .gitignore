@@ -1,3 +1,22 @@
 _site/
 node_modules/
 package-lock.json
+
+# Vim
+.swp
+
+# Emacs
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# MacOSX
+.DS_Store
+
+# Backupfiles
+# .bak

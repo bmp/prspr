@@ -4,11 +4,14 @@ eleventyNavigation:
   key: Home
   order: 1
 ---
-{% set maxPosts = collections.posts.length | min(3) %}
-<h1>Latest {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} Posts{% endif %}</h1>
 
-{% set postslist = collections.posts | head(-3) %}
-{% set postslistCounter = collections.posts | length %}
-{% include "postslist.njk" %}
+This group has come together as an experiment to understand, explore and shape the use of Web 3.0 for Development in India. You can read more about us <a href="{{ '/about/' | url }}">here</a>.
 
-<p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>
+We currently have,
+<ol>
+<li><a href="https://drive.google.com/drive/folders/1Sh7tXZyU2iO6tMwiLiIYdXbkTq1j_pWJ?usp=sharing">Reading Group</a></li>
+<li>Telegram Group <i>[TBA]</i></li>
+<li>An experiment in DAO based payment system <i>[TBA]</i></li>
+</ol>
+
+Please do <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%6B%72%73%68%61%69%6C%61%62%68%40%75%70%6C%69%66%74%6D%75%74%75%61%6C%73%2E%6F%72%67">write to us</a> if you wish to join.

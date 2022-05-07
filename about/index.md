@@ -4,7 +4,7 @@ title: About
 templateClass: tmpl-post
 eleventyNavigation:
   key: About 
-  order: 3
+  order: 4
 ---
 
 Information and Communications Technologies have changed our lives in innumerable ways. Digital solutions have both accelerated the social and economic development, as well as sharpened inequalities in the world. A [number of initiatives](https://en.wikipedia.org/wiki/List_of_ICT4D_organizatio) were setup over the years to help accelerate adoption and collectivise these efforts.

@@ -76,6 +76,10 @@ body > header h1 {
   margin: 1rem auto;
 }
 
+body > header h1 a{
+    text-decoration: none;
+}
+
 body > header p {
   max-width: 40rem;
   margin: 1rem auto;
@@ -543,4 +547,3 @@ pre code {
   margin: 0;
   padding: 0;
 }
-

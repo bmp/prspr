@@ -1,5 +1,5 @@
 ---
-title: Re-imaging healthcare mutauls as a DAO
+title: Building Universal Community  Health Protection as a DAO
 description: Health Insurance in India is broken, 780 million of Indians can’t or won’t buy health insurance!
 date: 2022-05-08
 author: Shailabh

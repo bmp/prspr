@@ -15,7 +15,6 @@
     <header>
       <h1 class="home"><a href="{{ '/' | url }}">{{ metadata.title }}</a></h1>
 
-      {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
       <nav>
       {%- for entry in collections.all | eleventyNavigation %}
         <a href="{{ entry.url | url }}">{{ entry.title }}</a>
@@ -28,7 +27,7 @@
     </main>
 
     <footer>
-      <a href="https://validator.w3.org/nu/?doc=https://w3fordev.netlify.app">HTML5</a>&nbsp;&#124;&nbsp;<a href="https://www.11ty.io/">Eleventy</a>&nbsp;&#124;&nbsp;<a href="/feed/feed.xml">RSS</a>
+      <a href="https://validator.w3.org/nu/?doc=https://prspr.netlify.app">HTML5</a>&nbsp;&#124;&nbsp;<a href="https://www.11ty.io/">Eleventy</a>&nbsp;&#124;&nbsp;<a href="/feed/feed.xml">RSS</a>
     </footer>
 
     <!-- Current page: {{ page.url | url }} -->

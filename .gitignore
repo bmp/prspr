@@ -4,6 +4,7 @@ package-lock.json
 
 # Vim
 .swp
+.*~
 
 # Emacs
 *~

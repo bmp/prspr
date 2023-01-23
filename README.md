@@ -1,3 +1,3 @@
-# PRSPR: Web 3.0 for the future
+# PRSPR: An inclusive future
 
 This is a source controlled site for the group.

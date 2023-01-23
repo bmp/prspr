@@ -1,21 +1,21 @@
 {
-  "title": "PRSPR: Web 3.0 and the future",
-  "url": "https://w3fordev.netlify.app/",
+  "title": "PRSPR: A better future",
+  "url": "https://prspr.github.io",
   "language": "en",
-  "description": "PRSPR: Web 3.0 for a better future",
+  "description": "PRSPR: A better future",
   "feed": {
-    "subtitle": "PRSPR: Web 3.0 for a better future",
+    "subtitle": "PRSPR: A better future",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://prspr.netlify.app/"
+    "id": "https://prspr.github.io"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://prpsr.netlify.app//feed.json"
+    "url": "https://prspr.github.io/feed.json"
   },
   "author": {
     "name": "Bharath M. Palavalli",
-    "email": "bharath@fieldsofview.in",
-    "url": "https://prspr.netlify.app/"
+    "email": "gh+mail@bharathpalavalli.com",
+    "url": "https://prspr.github.io"
   }
 }

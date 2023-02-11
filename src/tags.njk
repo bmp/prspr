@@ -1,21 +1,12 @@
 ---
-pagination:
-  data: collections
-  size: 1
-  alias: tag
-  filter:
-    - all
-    - nav
-    - post
-    - posts
-    - tagList
-  addAllPagesToCollections: true
-layout: home.njk
-eleventyComputed:
-  title: Tagged “{{ tag }}”
-permalink: /tags/{{ tag | slug }}/
+permalink: /tags/
+layout: layouts/home.njk
 ---
-<h1>Tagged “{{ tag }}”</h1>
 
-{% set postslist = collections[ tag ] %}
-{% include "postslist.njk" %}
+{%- from "layouts/partials/component.njk" import component -%}
+
+<h1>Tags</h1>
+
+{{ component('tags-list', {
+    tags: collections.tagList
+}) }}

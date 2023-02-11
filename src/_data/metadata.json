@@ -1,21 +1,24 @@
 {
-  "title": "PRSPR: A better future",
-  "url": "https://prspr.netlify.app/",
-  "language": "en",
-  "description": "PRSPR: A better future",
-  "feed": {
-    "subtitle": "PRSPR: A better future",
-    "filename": "feed.xml",
-    "path": "/feed/feed.xml",
-    "id": "https://prspr.netlify.app/"
-  },
-  "jsonfeed": {
-    "path": "/feed/feed.json",
-    "url": "https://prspr.netlify.app//feed.json"
-  },
-  "author": {
-    "name": "Bharath M. Palavalli",
-    "email": "gh+mail@bharathpalavalli.com",
-    "url": "https://prspr.netlify.app/"
-  }
+    "title": "PRSPR",
+    "url": "https://prspr.world",
+    "description": "A shared prosperity model for a better future.",
+    "feed": {
+        "subtitle": "A shared prosperity model for a better future.",
+        "filename": "feed.xml",
+        "path": "/feed/feed.xml",
+        "id": "https://prspr.world"
+    },
+    "jsonfeed": {
+        "path": "/feed/feed.json",
+        "url": "https://prspr.world/feed/feed.json"
+    },
+    "author": {
+        "name": "PRSPR.WORLD",
+        "email": "hello@prspr.world",
+        "url": "https://prspr.world/about/",
+        "twitter": "https://twitter.com/prspr.world",
+        "mastodon": "https://mastodon.social/prspr.world",
+        "linkedin": "https://linkdedin.com/in/prspr.world",
+        "telegram": "https://t.co/prspr.world"
+    }
 }

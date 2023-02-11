@@ -1,23 +1,14 @@
-_site/
+# node
 node_modules/
-package-lock.json
 
-# Vim
-.swp
-.*~
-
-# Emacs
-*~
-\#*\#
-/.emacs.desktop
-/.emacs.desktop.lock
-*.elc
-auto-save-list
-tramp
-.\#*
-
-# MacOSX
+# MacOS
 .DS_Store
 
-# Backupfiles
-# .bak
+# build directory
+dist
+
+# sass
+*.map
+
+# remote images
+.cache/

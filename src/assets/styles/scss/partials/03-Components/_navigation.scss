@@ -36,7 +36,7 @@
 
   &::after {
     position: absolute;
-    bottom: 40%;
+    bottom: -10%;
     left: var(--space-sm-2n);
     width: var(--space-0);
     height: var(--space-sm-2);
@@ -61,7 +61,7 @@
 
     &::after {
       position: absolute;
-      bottom: 42%;
+      bottom: -10%;
       left: var(--space-sm-2n);
       width: calc(100% + var(--space-sm-4));
       height: var(--space-sm-2);

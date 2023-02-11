@@ -34,7 +34,14 @@ p {
 }
 
 ul {
-  list-style-type: none;
+  list-style-type: circle;
+  list-style-position: inside;
+  padding: var(--space-lg-1);
+}
+
+ol {
+  list-style-position: inside;
+  padding: var(--space-lg-1);
 }
 
 hr {

@@ -97,14 +97,18 @@
 .footer__social-items {
   display: flex;
   flex-wrap: wrap;
+  list-style-type: none;
+  list-style-position: outside;
+  padding: unset;
 }
 
 .footer__social-link {
   margin-right: var(--space-sm-8);
   padding: var(--space-sm-2) var(--space-sm-6) var(--space-0) var(--space-sm-6);
   transition: var(--transition-default);
-  border: var(--border-width-medium) solid var(--text-muted);
-  border-radius: var(--border-radius-circle);
+
+  // border: var(--border-width-medium) solid var(--text-muted);
+  // border-radius: var(--border-radius-circle);
   font-size: var(--font-size-xl);
 
   svg {

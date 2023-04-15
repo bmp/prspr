@@ -3,9 +3,6 @@ permalink: /index.html
 title: 'PRSPR'
 description: 'PRSPR will unlock the power of the commons for a brighter, better future is possible and want to pave the way for the next generation!'
 layout: 'home'
-blog:
-  title: 'PRSPR'
-  intro: "Come join us if you think unlocking the power of the commons for a brighter, better future is possible and want to pave the way for the next generation!"
 ---
 
 ## Welcome
@@ -21,3 +18,7 @@ The experiment we are conducting seeks to build on this concept by creating a di
 In conclusion, our experiment is a critical step towards building a more inclusive financial system that promotes digital financial inclusion. By participating, you will be contributing to the advancement of this important concept and to the well-being of society as a whole.
 
 Thank you for considering this invitation, please do join us to make this a success.
+
+<p style="text-align: center;">
+<a href="/join">Join Us</a>
+</p>

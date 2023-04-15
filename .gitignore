@@ -1,14 +1,14 @@
-# node
-node_modules/
+# Node modules
+node_modules
 
-# MacOS
-.DS_Store
-
-# build directory
+# generated files
 dist
+src/_includes/css
+src/_includes/scripts
 
-# sass
-*.map
+# cache
+.cache
 
-# remote images
-.cache/
+# secret data
+.env
+

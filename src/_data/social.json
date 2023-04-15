@@ -1,0 +1,32 @@
+[
+    {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@prspr",
+        "icon": "mastodon.svg"
+    },
+    {
+        "platform": "linkedin",
+        "url": "https://in.linkedin.com/company/prspr",
+        "icon": "linkedin.svg"
+    },
+    {
+        "platform": "twitter",
+        "url": "https://twitter.com/prspr",
+        "icon": "twitter.svg"
+    },
+    {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/prspr/",
+        "icon": "instagram.svg"
+    },
+    {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/prspr",
+        "icon": "facebook.svg"
+    },
+    {
+        "platform": "rss",
+        "url": "/feed.xml",
+        "icon": "rss.svg"
+    }
+]

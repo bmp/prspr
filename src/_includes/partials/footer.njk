@@ -4,25 +4,6 @@
   <div class="wrapper">
     <div class="site-foot__inner">
 
-      <nav id="social" class="site-foot__inner" aria-label="Social links">
-        {% for item in social %}
-
-        {% if item.platform == "rss" %}
-        <a href="{{ meta.url }}/{{ locale }}{{ item.url }}" rel="alternate" type="application/rss+xml">
-        {% else %}
-        <a href="{{ item.url }}" rel="me">
-          {% endif %}
-          <span class="sr-only">{{ item.platform }}</span>
-          <div aria-hidden="true">{% include 'icons/social-' + item.icon %}</div>
-          </a
-          >
-        {% endfor %}
-
-
-        </nav>
-        </div>
-
-            <div class="site-foot__inner">
       <nav id="footernav" class="site-foot__inner" aria-label="Footer">
 
         &copy; {% year %} <a href="/" {% if activePage === '/' %} aria-current="page" {% endif %}>{{ meta.siteName }} </a>
@@ -43,7 +24,22 @@
         {% endfor %}
       </nav>
 
+      <nav id="social" class="site-foot__inner" aria-label="Social links">
+        {% for item in social %}
 
+        {% if item.platform == "rss" %}
+        <a href="{{ meta.url }}/{{ locale }}{{ item.url }}" rel="alternate" type="application/rss+xml">
+        {% else %}
+        <a href="{{ item.url }}" rel="me">
+          {% endif %}
+          <span class="sr-only">{{ item.platform }}</span>
+          <div aria-hidden="true">{% include 'icons/social-' + item.icon %}</div>
+          </a
+          >
+        {% endfor %}
+
+
+        </nav>
     </div>
   </div>
 

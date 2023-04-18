@@ -2,7 +2,7 @@ module.exports = {
   url: process.env.URL || 'http://localhost:8080',
   siteName: 'PRSPR',
   siteDescription:
-    'Website for PRSPR',
+    'PRSPR: Making a better world',
   siteType: 'Organization', // schema
   locale: 'en_EN',
   lang: 'en',
@@ -16,9 +16,9 @@ module.exports = {
     opengraph_default: '/assets/images/opengraph-default.jpg', // fallback/default meta image
     opengraph_default_alt:
       'PRSPR will unlock the power of the commons for a brighter, better future is possible and want to pave the way for the next generation!', // alt text for default meta image
-      twitterSite: 'https://twitter.com/prspr', // i.e. @site - twitter profile of the site
+      twitterSite: 'https://twitter.com/weprspr', // i.e. @site - twitter profile of the site
       twitterCreator: 'https://twitter.com/bharathmp', // i.e. @author -  twitter profile of the site
-      mastodonProfile: 'https://mastodon.social/@prspr' // i.e. https://front-end.social/@lene - url to your mastodon instance/profile
+      mastodonProfile: 'https://mastodon.social/@weprspr' // i.e. https://front-end.social/@lene - url to your mastodon instance/profile
   },
   blog: {
     // this is for the rss feed

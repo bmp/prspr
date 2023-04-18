@@ -17,3 +17,9 @@
 .section :is(h1, h2, h3, blockquote) {
   opacity: 95%;
 }
+
+
+.header__banner {
+    background-image: url(/assets/images/banner_placeholder.svg);
+    color: var(--color-primary);
+}

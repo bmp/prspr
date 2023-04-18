@@ -20,6 +20,7 @@
 
 
 .header__banner {
-    background-image: url(/assets/images/banner_placeholder.svg);
-    color: var(--color-primary);
+    background-image: url(/assets/images/prspr_banner_v4.svg);
+    color: white;
+    text-shadow: 0 0 3px var(--color-primary), 0 0 3px var(--color-primary), 0 0 3px var(--color-primary), 0 0 3px var(--color-primary);
 }

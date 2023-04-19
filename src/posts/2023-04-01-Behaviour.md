@@ -17,8 +17,4 @@ However, based on our initial discussions and models, there is a clear distincti
 
 How do we mitigate this some of this?
 
-1. We will have a minimum no. of days for contribution before a payout can be requested.
-2. After every contribution, users get a token that expires in that decision cycle (1 day) that can be used in the decision making process.
-3. The token is used to vote (yes/no) on ALL payout requests.
-4. Users cannot abstain from voting for more than 'X' no. of days, their payout request would then be delayed by 'Y' no. of days.
-5. All payout requests are anonymous, and every user can see an anonymized history of the user in the system (no. of days of contribution, no. of times token was used for decision-making, etc.)
+We have tested multiple models of human behaviour drawn from existing literature to evaluate and design rules for PRSPR, we are now ready to test these rules with a select set of individuals who wish to work towards a better world. These first set of participants will have the advantage of having a ground-level view of a new paradigm of financial inclusion evolve. <a href="/join">Please join the waitlist</a> to be one of these visionaries.

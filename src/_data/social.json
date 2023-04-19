@@ -1,19 +1,19 @@
 [
     {
         "platform": "linkedin",
-        "url": "https://in.linkedin.com/company/prspr",
+        "url": "https://in.linkedin.com/company/weprspr",
         "icon": "linkedin.svg"
     },
 
     {
         "platform": "mastodon",
-        "url": "https://mastodon.social/@prspr",
+        "url": "https://mastodon.social/@WePRSPR",
         "icon": "mastodon.svg"
     },
 
     {
         "platform": "twitter",
-        "url": "https://twitter.com/prspr",
+        "url": "https://twitter.com/WePRSPR",
         "icon": "twitter.svg"
     },
         {
@@ -23,7 +23,7 @@
     },
     {
         "platform": "instagram",
-        "url": "https://www.instagram.com/prspr/",
+        "url": "https://www.instagram.com/WePRSPR/",
         "icon": "instagram.svg"
     },
     {

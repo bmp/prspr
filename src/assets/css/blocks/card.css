@@ -46,3 +46,7 @@
   right: 0;
   top: 0;
 }
+time {
+  font-size: var(--size-step-0);
+  opacity: 0.6;
+}

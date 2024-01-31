@@ -5,4 +5,4 @@ layout: blog
 permalink: /idea/index.html
 ---
 
-Conversations amongst a few of us has led to a demand to move this beyond phone calls, WhatsApp chats and lunch discussions, here is the latest from our discussions with people around the world.
+Conversations amongst a few of us has led to a demand to transition this beyond phone calls, Zoom calls, WhatsApp chats and lunch discussions. Here is a short summary of a few of our discussions with people around the world,

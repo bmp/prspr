@@ -5,12 +5,12 @@ date: 2023-03-01
 ---
 
 
-There are several situations where PRSPR (the collective) can face severe losses or even collapse. People respond differently to risks based on their socio-cultural-economic background.
+There are several situations where PRSPR (the collective) can face severe losses or even collapse. People respond differently to risks based on their socio-cultural-economic background. A few behaviour patterns that can adversely affect us are,
 
-- People may want to cash out after a few days(10-30) of staking their wallet (short profit bookers-adverse selection) and not return
-- People may form a group outside of PRSPR and demand a payout to test or cheat  (moral hazard) - may happen when PRSPR payouts become substantial
-- People may feel fatigued to pool their risks on a daily basis and PRSPR may lose members due to that
-- Opening PRSPR for new participants too fast (crashes) or too slow(not enough to pay claims)
+- People may want to cash out after a few days (10-30) of staking their wallet (short profit bookers-adverse selection) and not return.
+- People may form a group outside of PRSPR and demand a payout to test or cheat  (moral hazard) - may happen when PRSPR payouts become substantial.
+- People may feel fatigued to pool their risks on a daily basis and PRSPR may lose members due to that.
+- Opening PRSPR for new participants too fast (crashes) or too slow (not enough to pay claims).
 
 Typically the following risks are associated with any insurance like models and PRSPR would also have similar though with variation in activity and impact.
 
